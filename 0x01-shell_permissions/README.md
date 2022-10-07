@@ -12,3 +12,4 @@
 11- executing permissions to subdirectories
 13- creating permission 751 directory
 12- creating permission 751 directory
+13- changing group owner

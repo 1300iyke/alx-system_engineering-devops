@@ -8,3 +8,4 @@
 7- permitting everybody
 8- permitting other users
 9- resetting the file mode
+10- looking in the mirror

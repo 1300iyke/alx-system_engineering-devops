@@ -9,3 +9,4 @@
 8- permitting other users
 9- resetting the file mode
 10- looking in the mirror
+11- executing permissions to subdirectories

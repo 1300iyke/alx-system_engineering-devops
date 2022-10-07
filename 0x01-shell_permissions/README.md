@@ -6,3 +6,4 @@
 5- adding execution permission
 6- addding multiple execution permissions
 7- permitting everybody
+8- permitting other users

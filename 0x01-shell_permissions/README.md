@@ -4,3 +4,4 @@
 3- changing the file ownership
 4- creating an empty file
 5- adding execution permission
+6- addding multiple execution permissions

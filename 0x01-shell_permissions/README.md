@@ -10,3 +10,5 @@
 9- resetting the file mode
 10- looking in the mirror
 11- executing permissions to subdirectories
+13- creating permission 751 directory
+12- creating permission 751 directory

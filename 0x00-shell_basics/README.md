@@ -1,1 +1,1 @@
-8- Deleting betty
+9- My first directory deletion

@@ -1,1 +1,1 @@
-7- Moving betty
+8- Deleting betty

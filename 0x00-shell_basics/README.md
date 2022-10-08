@@ -1,1 +1,1 @@
-6- Creating a directory
+7- Moving betty

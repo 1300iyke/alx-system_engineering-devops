@@ -1,1 +1,1 @@
-11- Listing all files
+12- Printing the file type

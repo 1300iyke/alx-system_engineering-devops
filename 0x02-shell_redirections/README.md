@@ -1,3 +1,4 @@
 0- It prints Hello, World
 1- It displays a confused smiley
-2- It displays the contents of the file 
+2- It displays the contents of the file
+3- It displays the contents of two files 

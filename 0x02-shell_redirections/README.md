@@ -19,3 +19,4 @@
 18- It displays all the lines of a file starting with a letter
 19- It replaces all characters from input
 20- It removes letters from input
+21- It reverses its input

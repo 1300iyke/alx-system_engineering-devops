@@ -14,3 +14,4 @@
 13- It prints only words that appear once
 14- It displays line containing pattern "root"
 15- It displays the number of lines that contains the pattern "bin"
+16- It displays lines containing the pattern "root"

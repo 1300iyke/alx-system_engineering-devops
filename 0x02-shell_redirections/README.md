@@ -18,3 +18,4 @@
 17- It displays all the lines in the file that does not contain "bins"
 18- It displays all the lines of a file starting with a letter
 19- It replaces all characters from input
+20- It removes letters from input

@@ -15,3 +15,5 @@
 14- It displays line containing pattern "root"
 15- It displays the number of lines that contains the pattern "bin"
 16- It displays lines containing the pattern "root"
+17- It displays all the lines in the file that does not contain bin
+

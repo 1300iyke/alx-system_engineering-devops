@@ -13,3 +13,4 @@
 12- It displays the ten newest files in the current directory
 13- It prints only words that appear once
 14- It displays line containing pattern "root"
+15- It displays the number of lines that contains the pattern "bin"

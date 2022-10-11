@@ -9,3 +9,4 @@
 8- It writes into a file
 9- It duplicates the last line of a file
 10- It deletes all regular files with a .js
+11- It counts the number of directories and sub-directories

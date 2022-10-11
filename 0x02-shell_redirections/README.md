@@ -5,3 +5,4 @@
 4- It displays the last 10 lines of a file
 5- It displays the first 10 lines of a file
 6- It displays the third line of a file
+7- It creates a file that cuts iron without making noise

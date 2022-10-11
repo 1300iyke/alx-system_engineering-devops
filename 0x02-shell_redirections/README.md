@@ -17,3 +17,4 @@
 16- It displays lines containing the pattern "root"
 17- It displays all the lines in the file that does not contain "bins"
 18- It displays all the lines of a file starting with a letter
+19- It replaces all characters from input

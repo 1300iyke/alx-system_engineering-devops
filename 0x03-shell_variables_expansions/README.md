@@ -3,3 +3,4 @@
 2- It adds a file to the path
 3- It creates a script that counts the number of directories
 4- It lists enviroment variables
+5- It lists local variables

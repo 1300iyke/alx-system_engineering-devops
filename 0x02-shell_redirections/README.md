@@ -20,3 +20,4 @@
 19- It replaces all characters from input
 20- It removes letters from input
 21- It reverses its input
+22- It displays all users and their home directories

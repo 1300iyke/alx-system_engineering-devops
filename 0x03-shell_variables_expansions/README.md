@@ -6,3 +6,4 @@
 5- It lists local variables
 6- It creates a new local variable
 7- It creates a new global variable
+8- It prints addition results

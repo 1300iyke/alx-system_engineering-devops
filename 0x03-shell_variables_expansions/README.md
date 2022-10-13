@@ -9,3 +9,4 @@
 8- It prints addition results
 9- It prints a division result
 10- It displays the result of power calculations
+11- It converts binary to base 10

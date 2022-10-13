@@ -7,3 +7,4 @@
 6- It creates a new local variable
 7- It creates a new global variable
 8- It prints addition results
+9- It prints a division result

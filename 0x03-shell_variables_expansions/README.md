@@ -8,3 +8,4 @@
 7- It creates a new global variable
 8- It prints addition results
 9- It prints a division result
+10- It displays the result of power calculations
